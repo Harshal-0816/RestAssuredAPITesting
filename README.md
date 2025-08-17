@@ -1,2 +1,12 @@
-# RestAssuredAPITesting
-A collection of automated API test cases implemented using RestAssured, Java, and TestNG. This repository includes examples of CRUD operations (POST, GET, PUT, DELETE) on a student registration API, along with assertions for response validation, headers, and status codes. Designed to demonstrate best practices in API testing and test automation."
+# Student API Testing with RestAssured
+
+This repository contains automated API test cases for a **Student Registration API**, built using:
+- **Java**
+- **RestAssured**
+- **TestNG**
+
+The project demonstrates:
+- CRUD operations (Create, Read, Update, Delete) on student records
+- Response validation using assertions
+- JSON handling with HashMaps and arrays
+- Reusability across test classes
